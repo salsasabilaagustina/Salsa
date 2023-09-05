@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T01:29:48.727Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.6.8" etag="ymO20GkjCYQm3tzGKHQX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T02:55:19.132Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="iquO4KoQws30L_BRvVtw" version="21.6.8" type="github">
   <diagram name="Page-1" id="D11tq3SNzDXfyJsaY87V">
-    <mxGraphModel>
+    <mxGraphModel dx="1052" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DlrtywLqt25g9Ot08qfT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="520" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-5" value="&lt;div&gt;pemain&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="380" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-7" value="&lt;div&gt;panitia&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="80" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-9" value="loncat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="DlrtywLqt25g9Ot08qfT-5" target="DlrtywLqt25g9Ot08qfT-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-12" value="gerak" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="DlrtywLqt25g9Ot08qfT-5" target="DlrtywLqt25g9Ot08qfT-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-14" value="finish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="DlrtywLqt25g9Ot08qfT-14" target="DlrtywLqt25g9Ot08qfT-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="DlrtywLqt25g9Ot08qfT-5" target="DlrtywLqt25g9Ot08qfT-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlrtywLqt25g9Ot08qfT-17" value="karung racing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
