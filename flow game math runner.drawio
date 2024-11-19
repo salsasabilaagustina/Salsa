@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Halaman-1" id="BOAkd3avVRebY73wgL2E">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-1" value="game star" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-3" value="pilih level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-3" target="es0xrtEpCfi0rkZzRHAM-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="185" as="targetPoint" />
+            <mxPoint x="360" y="175" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-5" target="es0xrtEpCfi0rkZzRHAM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-5" value="permainan dimulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-10" target="es0xrtEpCfi0rkZzRHAM-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-10" value="pemain harus memecahkan soal matematika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-17" value="jika benar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-18" value="jika salah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-19" target="es0xrtEpCfi0rkZzRHAM-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-19" value="pemain akan mendapatkan poin dan melanjutkan berlari." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="390" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-20" target="es0xrtEpCfi0rkZzRHAM-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-20" value="Jika salah, mereka kehilangan nyawa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="390" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-22" value="Jika pemain selesai dengan level permainan akan lanjut ke level berikutnya." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-24" value="game over" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="515" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-22" target="es0xrtEpCfi0rkZzRHAM-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="760" as="targetPoint" />
+            <mxPoint x="340" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-28" value="lihat skor dan lanjut ke&amp;nbsp;&lt;div&gt;level berikutnya.&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="630" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="es0xrtEpCfi0rkZzRHAM-28" target="es0xrtEpCfi0rkZzRHAM-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="940" as="targetPoint" />
+            <mxPoint x="415" y="705" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="es0xrtEpCfi0rkZzRHAM-30" value="game finish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="740" width="120" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
